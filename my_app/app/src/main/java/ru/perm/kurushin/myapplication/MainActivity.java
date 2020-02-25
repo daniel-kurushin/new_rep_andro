@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 // Привет!!!
 // и тебе привет!
 // и тебе тоже!
+// а тебе - нет!
+
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
